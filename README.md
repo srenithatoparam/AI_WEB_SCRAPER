@@ -110,3 +110,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Streamlit](https://streamlit.io/) for the amazing web framework
 - [BrowserStack](https://www.browserstack.com/) for Selenium automation
 - [Ollama](https://ollama.ai/) for the LLM integration
+
+This project is licensed under the [MIT License](LICENSE).
